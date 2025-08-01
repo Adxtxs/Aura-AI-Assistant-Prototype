@@ -80,3 +80,18 @@ The HR dashboard provides macro-level insights into workforce health, enabling d
 - **Aura Design Mockups (`.pdf`)**: Visual designs showing the look and feel of the employee and HR dashboards.
 - **Aura - Product Outline Presentation (`.pdf`)**: A strategic pitch deck detailing the product vision, features, market analysis, privacy, technical challenges and success metrics.
 - **Final Insights (`.pdf`)**: A summary of key takeaways on the market problem, product solution, and competitive landscape.
+  
+### Screenshots 
+<img width="955" height="430" alt="image" src="https://github.com/user-attachments/assets/74e47405-ca45-457c-bbf3-9f5cbf1b6552" />
+<img width="943" height="398" alt="image" src="https://github.com/user-attachments/assets/d1438fb7-c099-49b7-81b9-ccce657f2e27" />
+<img width="942" height="425" alt="image" src="https://github.com/user-attachments/assets/b4ad27b7-113b-4536-85a9-0f92dc077ee4" />
+<img width="940" height="412" alt="image" src="https://github.com/user-attachments/assets/80645e32-61dc-42fd-b1cc-de1749d11449" />
+<img width="942" height="424" alt="image" src="https://github.com/user-attachments/assets/0703bfd3-0be6-4ffb-baf9-a272f55005f8" />
+<img width="937" height="284" alt="image" src="https://github.com/user-attachments/assets/02694ae4-0246-4dc9-8476-84f859d64743" />
+
+
+
+
+
+
+
